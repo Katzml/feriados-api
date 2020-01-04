@@ -2,7 +2,7 @@ const express = require('express');
 const app= express();
 
 //importando json local de feriados
-const feriados = require('./assets/feriados2020.json');
+//const feriados = require('./assets/feriados2020.json');
 
 
 app.get('/',(req,res)=>{
