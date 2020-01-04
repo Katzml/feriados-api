@@ -1,0 +1,92 @@
+[
+    {
+        "date": "2020-01-01",
+        "title": "Año Nuevo",
+        "extra": "Civil e Irrenunciable"
+    },
+    {
+        "date": "2020-04-10",
+        "title": "Viernes Santo",
+        "extra": "Religioso"
+    },
+    {
+        "date": "2020-04-11",
+        "title": "Sábado Santo",
+        "extra": "Religioso"
+    },
+    {
+        "date": "2020-04-26",
+        "title": "Plebiscito Constitucional",
+        "extra": "Civil"
+    },
+    {
+        "date": "2020-05-01",
+        "title": "Día Nacional del Trabajo",
+        "extra": "Civil e Irrenunciable"
+    },
+    {
+        "date": "2020-05-21",
+        "title": "Día de las Glorias Navales",
+        "extra": "Civil"
+    },
+    {
+        "date": "2020-06-07",
+        "title": "Elecciones Primarias de Alcaldes",
+        "extra": "Civil e Irrenunciable"
+    },
+    {
+        "date": "2020-06-29",
+        "title": "San Pedro y San Pablo",
+        "extra": "Religioso"
+    },
+    {
+        "date": "2020-07-16",
+        "title": "Día de la Virgen del Carmen",
+        "extra": "Religioso"
+    },
+    {
+        "date": "2020-08-15",
+        "title": "Asunción de la Virgen",
+        "extra": "Religioso"
+    },
+    {
+        "date": "2020-09-18",
+        "title": "Independencia Nacional",
+        "extra": "Civil e Irrenunciable"
+    },
+    {
+        "date": "2020-09-19",
+        "title": "Día de las Glorias del Ejército",
+        "extra": "Civil e Irrenunciable"
+    },
+    {
+        "date": "2020-10-12",
+        "title": "Encuentro de Dos Mundos",
+        "extra": "Civil"
+    },
+    {
+        "date": "2020-10-25",
+        "title": "Elecciones Municipales",
+        "extra": "Civil"
+    },
+    {
+        "date": "2020-10-31",
+        "title": "Día de las Iglesias Evangélicas y Protestantes",
+        "extra": "Religioso"
+    },
+    {
+        "date": "2020-11-01",
+        "title": "Día de Todos los Santos",
+        "extra": "Religioso"
+    },
+    {
+        "date": "2020-12-08",
+        "title": "Inmaculada Concepción",
+        "extra": "Religioso"
+    },
+    {
+        "date": "2020-12-25",
+        "title": "Navidad",
+        "extra": "Religioso e Irrenunciable"
+    }
+]
