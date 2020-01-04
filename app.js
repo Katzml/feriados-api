@@ -1,8 +1,9 @@
 const express = require('express');
 const app= express();
+const PORT = process.env.PORT || 3000
 
 //importando json local de feriados
-//const feriados = require('./assets/feriados2020.json');
+const feriados = require('./assets/feriados2020.json');
 
 
 app.get('/',(req,res)=>{
@@ -21,4 +22,4 @@ app.get('/api/feriados',(req,res)=>{
 
 
 //set server port
-app.listen(3000,()=>{console.info('Server on!')});
+app.listen(PORT,()=>{console.info('Server on!')});
