@@ -1,15 +1,19 @@
 const express = require('express');
 const app= express();
+const cors = require('cors');
 const PORT = process.env.PORT || 3000
 
 //importando json local de feriados
 const feriados = require('./assets/feriados2020.json');
 
+//midlewares
+app.use(cors());
 
 app.get('/',(req,res)=>{
     res.send(`
-            <h1>Hola</h1>
-    
+            <h1>Feriados Chile 2020</h1>
+            <br/>
+            <a href="/api/feriados">Click aqui<a/>        
     `)
 });
 
