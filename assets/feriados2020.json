@@ -2,7 +2,7 @@
     {
         "date": "2020-01-01",
         "title": "Año Nuevo",
-        "extra": "Civil e Irrenunciable"
+        "extra": "Civil "
     },
     {
         "date": "2020-04-10",
@@ -22,7 +22,7 @@
     {
         "date": "2020-05-01",
         "title": "Día Nacional del Trabajo",
-        "extra": "Civil e Irrenunciable"
+        "extra": "Civil"
     },
     {
         "date": "2020-05-21",
@@ -32,7 +32,7 @@
     {
         "date": "2020-06-07",
         "title": "Elecciones Primarias de Alcaldes",
-        "extra": "Civil e Irrenunciable"
+        "extra": "Civil"
     },
     {
         "date": "2020-06-29",
@@ -52,12 +52,12 @@
     {
         "date": "2020-09-18",
         "title": "Independencia Nacional",
-        "extra": "Civil e Irrenunciable"
+        "extra": "Civil"
     },
     {
         "date": "2020-09-19",
         "title": "Día de las Glorias del Ejército",
-        "extra": "Civil e Irrenunciable"
+        "extra": "Civil"
     },
     {
         "date": "2020-10-12",
@@ -87,6 +87,6 @@
     {
         "date": "2020-12-25",
         "title": "Navidad",
-        "extra": "Religioso e Irrenunciable"
+        "extra": "Religioso"
     }
 ]
