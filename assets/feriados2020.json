@@ -2,91 +2,109 @@
     {
         "date": "2020-01-01",
         "title": "Año Nuevo",
-        "extra": "Civil "
+        "extra": "Civil ",
+        "image": "https://imgur.com/ddia19B"
     },
     {
         "date": "2020-04-10",
         "title": "Viernes Santo",
-        "extra": "Religioso"
+        "extra": "Religioso",
+        "image": "https://imgur.com/WaH37g2"
     },
     {
         "date": "2020-04-11",
         "title": "Sábado Santo",
-        "extra": "Religioso"
+        "extra": "Religioso",
+        "image": "https://imgur.com/ErAkGET"
     },
     {
         "date": "2020-04-26",
         "title": "Plebiscito Constitucional",
-        "extra": "Civil"
+        "extra": "Civil",
+        "image": "https://imgur.com/dJSr8wP"
     },
     {
         "date": "2020-05-01",
         "title": "Día Nacional del Trabajo",
-        "extra": "Civil"
+        "extra": "Civil",
+        "image": "https://imgur.com/veumO2o"
     },
     {
         "date": "2020-05-21",
         "title": "Día de las Glorias Navales",
-        "extra": "Civil"
+        "extra": "Civil",
+        "image": "https://imgur.com/VpZMXo5"
     },
     {
         "date": "2020-06-07",
         "title": "Elecciones Primarias de Alcaldes",
-        "extra": "Civil"
+        "extra": "Civil",
+        "image": "https://imgur.com/e7d1gio"
     },
     {
         "date": "2020-06-29",
         "title": "San Pedro y San Pablo",
-        "extra": "Religioso"
+        "extra": "Religioso",
+        "image": "https://imgur.com/q6mf8SD"
     },
     {
         "date": "2020-07-16",
         "title": "Día de la Virgen del Carmen",
-        "extra": "Religioso"
+        "extra": "Religioso",
+        "image": "https://imgur.com/SVY3QqJ"
     },
     {
         "date": "2020-08-15",
         "title": "Asunción de la Virgen",
-        "extra": "Religioso"
+        "extra": "Religioso",
+        "image": "https://imgur.com/1yEHzKP"
     },
     {
         "date": "2020-09-18",
         "title": "Independencia Nacional",
-        "extra": "Civil"
+        "extra": "Civil",
+        "image": "https://imgur.com/NEk6aIX"
     },
     {
         "date": "2020-09-19",
         "title": "Día de las Glorias del Ejército",
-        "extra": "Civil"
+        "extra": "Civil",
+        "image": "https://imgur.com/0TKDo4m"
     },
     {
         "date": "2020-10-12",
         "title": "Encuentro de Dos Mundos",
-        "extra": "Civil"
+        "extra": "Civil",
+        "image": "https://imgur.com/oDLUYZ4"
     },
     {
         "date": "2020-10-25",
         "title": "Elecciones Municipales",
-        "extra": "Civil"
+        "extra": "Civil",
+        "image": "https://imgur.com/FtuyYKm"
     },
     {
         "date": "2020-10-31",
         "title": "Día de las Iglesias Evangélicas y Protestantes",
-        "extra": "Religioso"
+        "extra": "Religioso",
+        "image": "https://imgur.com/Ymof4D5"
     },
     {
         "date": "2020-11-01",
         "title": "Día de Todos los Santos",
-        "extra": "Religioso"
+        "extra": "Religioso",
+        "image": "https://imgur.com/VgODjcB"
     },
     {
         "date": "2020-12-08",
         "title": "Inmaculada Concepción",
-        "extra": "Religioso"
+        "extra": "Religioso",
+        "image": "https://imgur.com/UlP3PKf"
     },
     {
         "date": "2020-12-25",
         "title": "Navidad",
-        "extra": "Religioso"
+        "extra": "Religioso",
+        "image": "https://imgur.com/q30QRTA"
     }
 ]
